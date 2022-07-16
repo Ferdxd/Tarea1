@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('Descargas/fondo.jfif') no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 500px;
+    background: rgba(red, green, blue, alpha);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 20px;
+}
